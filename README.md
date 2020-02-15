@@ -1,2 +1,3 @@
 # ENIPRO_DATA_ACADEMY
-Notebook for Data Modelling with Python 
+
+This Repository houses all the notebooks to be used for the course of this lecture
